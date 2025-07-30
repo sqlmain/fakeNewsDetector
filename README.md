@@ -1,7 +1,3 @@
-Here's a clearer, more professional, and user-friendly `README.md` for your GitHub repository:
-
----
-
 # 📰 Fake News Detector
 
 This repository contains a prototype fake news detection system, including:
